@@ -14,7 +14,7 @@ const About = () => {
             <div className="about-left"><img src= {profile_img} alt="" /></div>
             <div className="about-right">
                 <div className="about-para">
-                    <p>I am a passionate full stack developer.
+                    <p>I am a passionate Game developer.
                         Currently pursuing my Bachelor's degree in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning at SRM Institute of Science and Technology.
                         Completed my schooling at DAV with an outstanding 93.2% in 12th grade.
                         My current Grade is 9.00 CGPA at SRMIST
