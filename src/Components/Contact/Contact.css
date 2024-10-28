@@ -1,0 +1,72 @@
+.contact{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin: 80px 170px;
+}
+
+.contact-title{
+    position: relative;
+}
+.contact-title h1{
+    padding: 0px 30px;
+    font-size: 70px;
+    font-weight: 600;
+}
+.contact-title img{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    z-index: -1;
+}
+
+.contact-details{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    margin: 80px 170px;
+}
+
+.contact-gmail{
+    padding: 10px 75px;
+    border-radius: 50px;
+    border: 2px transparent;
+    cursor: pointer;
+}
+.contact-gmail:hover{
+    text-decoration: underline;
+    text-underline-position: below;
+}
+
+.contact-others{
+    display: flex;
+    align-items: center;
+    gap: 25px;
+    font-size: 17px;
+    font-weight: 500;
+    margin-bottom: 50px;
+}
+.contact-github{
+    padding: 10px 75px;
+    border-radius: 50px;
+    border: 2px transparent;
+    cursor: pointer;
+}
+.contact-github:hover{
+    text-decoration: underline;
+    text-underline-position: below;
+}
+.contact-linkdin{
+    padding: 10px 75px;
+    border-radius: 50px;
+    border: 2px transparent;
+    cursor: pointer;
+}
+.contact-linkdin:hover{
+    text-decoration: underline;
+    text-underline-position: below;
+}
