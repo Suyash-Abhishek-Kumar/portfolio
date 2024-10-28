@@ -40,9 +40,39 @@
 .about-para{
     display: flex;
     flex-direction: column;
+    align-items: center;
+    text-align: center;
+    text-decoration: color(srgb red green blue);
     gap: 20px;
-    font-size: 20px;
+    font-size: 22px;
     font-weight: 400;
+}
+.about-para p{
+    background: #A0A0A0;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.about-para h1{
+    font-size: 32px;
+    font-weight: 100;
+}
+.about-para h3{
+    font-weight: 400;
+}
+.about-para p1{
+    background: white;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 800;
+}
+.about-para span{
+    background: linear-gradient(264deg, rgba(255, 0, 0, 0.741) -5.09%, #B415FF 106.28%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 600;
 }
 
 .about-skills{
