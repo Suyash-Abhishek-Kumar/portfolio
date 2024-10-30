@@ -1,9 +1,9 @@
 import project1_img from '../assets/ball_blast.png'
 import project2_img from '../assets/Pathfinder.png'
 import project3_img from '../assets/Rockets.png'
-import project4_img from '../assets/platformer.png'
-import project5_img from '../assets/hangman.png'
-import project6_img from '../assets/space shooter.png'
+import project4_img from '../assets/Platformer.png'
+import project5_img from '../assets/Hangman.png'
+import project6_img from '../assets/Space Shooter.png'
 
 const mywork_data = [
     {
