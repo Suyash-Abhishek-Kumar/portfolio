@@ -15,10 +15,10 @@ const About = () => {
             <div className="about-right">
                 <div className="about-para">
                     <h1>I am a passionate Game developer.</h1>
-                        <p>Currently pursuing my Bachelor's degree in <p1>Computer Science and Engineering</p1> with a specialization in <span>Artificial Intelligence and Machine Learning</span> at <p1>SRM Institute of Science and Technology.</p1></p>
-                        <p>Completed my schooling at <p1>RN Podar</p1> with an outstanding <span>90.2%</span> in 12th grade.</p>
-                        <p>My current Grade is <span>9.70 CGPA</span> at SRMIST</p>
-                        <p><h3>My ambition is to <span>craft cutting-edge technologies</span> that enhance user experiences and <p1>advance the gaming industry.</p1></h3></p>
+                    <p>Currently pursuing my Bachelor's degree in <p1>Computer Science and Engineering</p1> with a specialization in <span>Artificial Intelligence and Machine Learning</span> at <p1>SRM Institute of Science and Technology.</p1></p>
+                    <p>Completed my schooling at <p1>RN Podar</p1> with an outstanding <span>90.2%</span> in 12th grade.</p>
+                    <p>My current Grade is <span>9.70 CGPA</span> at SRMIST</p>
+                    <p><h3>My ambition is to <span>craft cutting-edge technologies</span> that enhance user experiences and <p1>advance the gaming industry.</p1></h3></p>
                 </div>
                 <div className="about-skills">
                     <div className="about-skill"><p>Python</p><hr style={{width: "55%"}}/></div>

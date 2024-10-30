@@ -8,10 +8,10 @@ const Hero = () => {
     <div id='home' className='hero'>
         <img src= {profile_img} alt="" />
         <h1><span>I am Suyash Abhishek Kumar,</span> a Game Devaloper based in India.</h1>
-        <p>Description</p>
         <div className="hero-action">
             <div className="hero-connect"><AnchorLink className='anchor-link' offset={50} href='#contact'>Connect with Me</AnchorLink></div>
-            <div className="hero-resume">My Resume</div>
+            <div className="hero-resume"><a href="https://drive.google.com/file/d/10WSHA2-2vuIMqezUG8YQlwFf1O5Y4Alc/view?usp=sharing" target="_blank" rel="noopener noreferrer">My Resume</a>
+            </div>
         </div>
     </div>
   )

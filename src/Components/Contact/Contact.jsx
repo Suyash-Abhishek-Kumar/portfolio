@@ -10,11 +10,11 @@ const Contact = () => {
             <img src={pattern_img} alt="" />
         </div>
         <div className="contact-details">
-            <p>Phone: 9004970566</p>
-            <div className="contact-gmail">Gmail: suyash.a.kumar@gmail.com</div>
+            <p>Phone: +91 9004970566</p>
+            <div className="contact-gmail"><p><a href="mailto:suyash.a.kumar@gmail.com" target="_blank" rel="noopener noreferrer">Gmail: suyash.a.kumar@gmail.com</a></p></div>
             <div className="contact-others">
-                <div className="contact-github">Github</div>
-                <div className="contact-linkdin">LinkdIn</div>
+                <div className="contact-github"><p><a href="https://github.com/Suyash-Abhishek-Kumar" target="_blank" rel="noopener noreferrer">Github</a></p></div>
+                <div className="contact-linkdin"><p><a href="https://www.linkedin.com/in/suyash-abhishek-kumar-96ba0a2ab/" target="_blank" rel="noopener noreferrer">LinkdIn</a></p></div>
             </div>
         </div>
     </div>
